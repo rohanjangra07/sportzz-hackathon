@@ -1,0 +1,6 @@
+Player_Age,Player_Weight,Player_Height,Previous_Injuries,Training_Intensity,Recovery_Time,BMI,Injury_Probability,Risk_Category
+22,70,180,0,0.3,2,21.6,0.5084557461496442,Medium Risk
+35,85,175,1,0.8,6,27.8,0.5,Medium Risk
+28,78,182,0,0.5,3,23.5,0.5,Medium Risk
+19,65,178,1,0.7,1,20.5,0.4944647874158907,Medium Risk
+32,90,185,1,0.9,5,26.3,0.49357144966907296,Medium Risk
