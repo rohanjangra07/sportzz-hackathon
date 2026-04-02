@@ -21,7 +21,7 @@ SportSense/
 ├── README.md                     # Project documentation
 └── requirements.txt              # Python dependencies
 ⚙️ Installation & Setup
-Clone the repository
+Clone the repository!
 
 git clone https://github.com/<your-username>/SportSense.git
 cd SportSense
